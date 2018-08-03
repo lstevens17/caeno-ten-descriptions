@@ -1,6 +1,9 @@
 from ete3 import Tree
 import sys
 
+# usage:
+# python extract_branch_lengths.py [newick_tree] [list_of_sequence_IDs] [node_number_of_interest]
+
 # parse tree
 with open(sys.argv[1], 'r') as nwk:
 	nwk_string = ''
