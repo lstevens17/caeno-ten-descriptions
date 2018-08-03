@@ -9,5 +9,5 @@ Scripts and data files associated with the intron loss analysis
 `Orthogroups_990_0missing_5hetero_paraloguesremoved_withCDSalignments.txt`: Single copy orthogroups.txt file (note: this is after removing redundant sequences arising from uncollapsed 
 heterozygosity and removing orthogroups containing paralogues)
 
-`infer_ancestral_intron_count.py`: Python script to infer ancestral intron counts (take a single CDS alignment and intron position file as input, and prints the inferred ancestral count)
+`infer_ancestral_intron_count.py`: Python script to infer ancestral intron counts (takes a single CDS alignment and intron position file as input, and prints the inferred ancestral count)
 
