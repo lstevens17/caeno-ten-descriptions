@@ -1,4 +1,4 @@
-#from ete3 import Tree
+from ete3 import Tree
 import sys
 
 # parse tree
